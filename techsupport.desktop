@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Техподдержка
+Comment=Удалённый доступ для техподдержки
+Exec=sh /opt/techsupport/techsupport.sh
+Icon=/opt/techsupport/icon.png
+Terminal=false
+Type=Application
+Categories=Utility;
+StartupNotify=true
