@@ -50,3 +50,5 @@ sudo chmod -R 755 /opt/techsupport
 sudo cp techsupport.desktop /usr/share/applications/
 ```
 
+8. Ярлык "Техподдержка" появится в меню приложений. Перенесите его на рабочий стол.
+
