@@ -45,7 +45,7 @@ sudo cp -r * /opt/techsupport/
 sudo chmod -R 755 /opt/techsupport
 ```
 
-7. Создайте ярлык на рабочем столе:
+7. Создайте ярлык в меню приложений:
 ```bash
 sudo cp techsupport.desktop /usr/share/applications/
 ```
